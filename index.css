@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#SEC{
+    height: 500px;
+    width: 430px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+#sec{
+    border: 2px solid black;
+    height: 440px;
+    width: 500px;
+    padding: 10px 10px;
+    background-color: black;
+}
+#A{
+    border: 2px solid black;
+    height: 70px;
+    width: 400px;
+    background-color: lawngreen;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#B{
+    border: 2px solid black;
+    height: 70px;
+    width: 400px;
+    position: absolute;
+    top: 110px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#C{
+    border: 2px solid black;
+    height: 70px;
+    width: 400px;
+    position: absolute;
+    top:180px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#D{
+    border: 2px solid black;
+    height: 70px;
+    width: 400px;
+    position: absolute;
+    top:250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#E{
+    border: 2px solid black;
+    height: 70px;
+    width: 300px;
+    position: absolute;
+    top:320px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#F{
+    border: 2px solid black;
+    height: 70px;
+    width: 200px;
+    position: absolute;
+    top:390px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+button{
+    height: 50px;
+    width: 95px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+}
+
